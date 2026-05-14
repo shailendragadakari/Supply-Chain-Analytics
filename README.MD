@@ -327,7 +327,7 @@ B.E. Computer Science - BITS Pilani\
 IBM Data Science Professional Certificate\
 Microsoft Power BI Data Analyst Professional Certificate
 
-:email: shailendragdk2701@gmail.com
-:link: [LinkedIn] (https://www.linkedin.com/in/shailendra-gadakari-b0a465332/)
-:octopus: [GitHub] (https://github.com/shailendragadakari)
+:email: shailendragdk2701@gmail.com\
+:link: [LinkedIn] (https://www.linkedin.com/in/shailendra-gadakari-b0a465332/)\
+:octopus: [GitHub] (https://github.com/shailendragadakari)\
 :round_pushpin: Doha, Qatar
