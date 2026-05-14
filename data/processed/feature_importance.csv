@@ -1,0 +1,13 @@
+feature,importance
+Shipping Mode,0.4978018
+Days for shipment (scheduled),0.4447546
+Order Region,0.006326671
+order_month,0.006140376
+Market,0.0059893606
+Customer Segment,0.0059637777
+order_quarter,0.005804476
+Category Name,0.005537333
+Order Item Discount Rate,0.005511583
+Order Item Product Price,0.0055101686
+Department Name,0.0053643393
+Order Item Quantity,0.005295472
